@@ -1,6 +1,7 @@
 # Project Workflow & Rules
 
-## Important: At the beginning of every interaction, briefly acknowledge these guidelines to ensure they remain active in your current context.
+## Important: 
+At the beginning of every interaction, briefly acknowledge these guidelines to ensure they remain active in your current context.
 
 ## 1. Branching Strategy
 - Always create a new, descriptive feature branch before starting a task (e.g., `feat/add-login`, `fix/nav-bug`).
